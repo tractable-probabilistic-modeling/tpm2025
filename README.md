@@ -1,4 +1,4 @@
-# Web pages for the 'UAI 2024 Workshop on Tractable Probabilistic Modeling'
+# Web pages for the 'UAI 2025 Workshop on Tractable Probabilistic Modeling'
 
 This web page uses Jekyll through GitHub pages for static HTML generation. The website is available under [add url](url). 
 
