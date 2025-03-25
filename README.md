@@ -15,6 +15,13 @@ Content is somewhat decoupled from the HTML/layout and should be edited as follo
 * Main page content (as HTML) in `index.html`
 * Sub-page content (as Markdown) in `_pages/`
 
+## Docker
+
+If you don't want to mess with your system and install Jekyll, you may run the server using the Dockerfile by running:
+
+    docker compose up
+
+
 ## Installation
 You will need to install Jekyll on your machine first. See [jekyllrb.com](https://jekyllrb.com/docs/installation/) for detailed guides on installing Ruby, RubyGems and Jekyll on a specific operating system. 
 
