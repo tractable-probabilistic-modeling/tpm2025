@@ -14,7 +14,7 @@ exclude:
   - .sass-cache
 
 title: "8th Workshop on Tractable Probabilistic Modeling"
-subtitle: "Models We Trust"
+subtitle: "Scaling probabilistic and logical reasoning"
 conference: "[UAI 2025 Workshop](https://www.auai.org/uai2025/)"
 
 shorttitle: "TPM Workshop @ UAI 2025"
