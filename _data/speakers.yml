@@ -1,18 +1,29 @@
-  
-- name: Devendra Singh Dhami
-  url: https://sites.google.com/view/devendradhami
-  affiliation: TU Eindhoven, NL
-  img: devendra.jpg 
-  abstract: TBA
-
-- name: Yingzhen Li
-  url: http://yingzhenli.net/home/en/
+- name: Eleonora Giunchiglia
+  url: 
   affiliation: Imperial College London, UK
-  img: yingzhen.jpg
-  abstract: TBA
-
-- name: Feras Saad
-  url: https://www.cs.cmu.edu/~fsaad/
-  affiliation: Carnegie Mellon University, USA 
-  img: feras.png 
-  abstract: TBA
+  img: 
+  abstract: Neuro-symbolic reasoning and imposing constraints on ML systems
+  
+- name: Efthymia Tsamoura
+  url: 
+  affiliation: Samsung AI
+  img: 
+  abstract: Theoretical aspects of neuro-symbolic reasoning, planning and probabilistic databases
+  
+- name: Kareem Ahmed
+  url: 
+  affiliation: University of California, Irvine, USA
+  img: 
+  abstract: Neuro-symbolic reasoning and scaling tractable probabilistic models
+  
+- name: Cassio De Campos
+  url: 
+  affiliation: TU Eindhoven, NL
+  img: 
+  abstract: Complexity of tractability, uncertainty quantification via imprecise probability, probabilistic circuits
+  
+- name: Qibin Zhao
+  url: 
+  affiliation: Tensor Learning Team, RIKEN AIP
+  img: 
+  abstract: Low-rank representations and tensor networks
