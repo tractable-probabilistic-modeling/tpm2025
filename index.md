@@ -43,11 +43,11 @@ layout: default
 </div>
 
 <h2>Workshop Program</h2>
-The workshop will happen in person at the Universitat Pompeu Fabra, Barcelona, Spain on July 19th, 2024.
+The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
 See <a href="{{site.baseurl}}/program">program</a> for details!
 
 <h2>Accepted Papers</h2>
-The list of <a href="{{site.baseurl}}/papers">accepted papers</a> is online!
+TBD
 
 
 <h2>Call for Papers</h2>
@@ -84,7 +84,7 @@ We also encourage links to public repositories such as GitHub to share code and/
 
 For any questions, please contact us at: [tpmworkshop2024@gmail.com](mailto:tpmworkshop2024@gmail.com)
 
-**Submission using:** [OpenReview](https://openreview.net/group?id=auai.org/UAI/2024/Workshop/TPM).
+**Submission using:**  Will be up on OpenReview soon.
 
 _**Note:** New OpenReview profiles created without an institutional email will go through a moderation process that can take up to two weeks. OpenReview profiles created with an institutional email will be activated automatically._
 
@@ -104,6 +104,7 @@ _**Note:** New OpenReview profiles created without an institutional email will g
 
 <h2>Previous Workshops</h2>
 <ul>
+<li><a href="https://tractable-probabilistic-modeling.github.io/tpm2024/">7th Workshop on Tractable Probabilistic Modeling (2023)</a></li>
   <li><a href="https://tractable-probabilistic-modeling.github.io/tpm2023/">6th Workshop on Tractable Probabilistic Modeling (2023)</a></li>
   <li><a href="https://tractable-probabilistic-modeling.github.io/tpm2022/">5th Workshop on Tractable Probabilistic Modeling (2022)</a></li>
   <li><a href="https://sites.google.com/view/tpm2021">4th Workshop on Tractable Probabilistic Modeling (2021)</a></li>
