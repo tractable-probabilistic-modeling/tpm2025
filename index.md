@@ -5,11 +5,13 @@ layout: default
 <!-- Information -->
 <div class="jumbotron information">
 
-    <p> For AI and ML systems aimed to assist decision-making in real-world scenarios, it is crucial to perform complex reasoning under uncertainty <b>reliably and efficiently</b>. However, contemporary machine learning is often criticized as being sensitive to data-perturbations, lacking guarantees on their predictions, and having little or no causal and symbolic reasoning capabilities. Further underpinning the relevance of these challenges, various regulatory bodies have released statements and frameworks aimed at building trustworthy AI.</p>
+<p>Deploying AI and ML systems to assist decision-making in real-world and safety-critical scenarios, requires different forms of <b>complex reasoning under uncertainty</b>. These scenarios include applications in healthcare and finance, as well as when certifying the fairness, robustness and privacy of ML systems. In all these cases, reasoning needs to be <b>reliable and efficient</b> and flexible enough to deal with <b>constraints and background knowledge</b>.
+The now consolidated field of tractable probabilistic models (TPMs) offers a very appealing approach as TPMs allow for <b>exact inference or come with approximation guarantees</b>, thus providing reliability while still allowing for efficient reasoning for a wide range of tasks, by design.
+</p>
 
-    <p>The field of tractable probabilistic models (TPMs) is a very appealing approach for many of these challenges, as TPMs enable reliable (<b>exact or coming with approximation guarantees</b>) and efficient reasoning for a wide range of tasks, by design. The spectrum of TPMs consists of a wide variety of techniques including models with tractable likelihoods (e.g., <b>normalizing flow</b> and <b>autoregressive models</b>), tractable marginals (e.g., <b>bounded-treewidth models</b> and <b>determinantal point processes</b>), and more complex tractable reasoning tasks (e.g., <b>circuits</b>) and is dynamically evolving.</p>
+Furthermore, many TPMs provide <b>a natural way to represent logical constraints and principled ways to incorporate them into larger ML systems</b>. The spectrum of TPMs consists of a wide variety of techniques including models with tractable likelihoods (e.g., <b>normalizing flow</b> and <b>autoregressive models</b>), tractable marginals (e.g., <b>bounded-treewidth models</b> and <b>determinantal point processes</b>), and more complex tractable reasoning tasks (e.g., <b>probabilistic and logic circuits, tensor networks</b>).</p>
 
-    <p>This year’s workshop on <b>Tractable Probabilistic Modeling</b> aims to highlight the connection between <b>trustworthy artificial intelligence</b> (in a broad sense) and tractable reasoning. The workshop aims to <b>highlight recent advancements in the field</b> of TPMs and their <b>potential impact in settings of trustworthy AI</b> (e.g. fairness, robustness, causality, neuro-symbolic AI).</p>
+<p>This new edition of the <b>Tractable Probabilistic Modeling</b> workshop focuses on scaling and providing guarantees when used for <b>probabilistic and logical reasoning</b>, e.g., in neuro-symbolic AI where agents have to model both calibrated uncertainties and satisfy given background knowledge while being efficient. We also welcome contributions around the TPM spectrum that consider only one of the two aspects, and hope to bring the two communities together to advance their respective fields.</p>
 </div>
 
 
@@ -55,8 +57,8 @@ TBD
 We invite three types of submissions:
 
 1. **Novel research** on tractable probabilistic modeling
-2. **Retrospective papers** discussing the impact, consequences, and lessons learned
-3. **Recently accepted papers** on tractable probabilistic modeling (_in the original format and length_)
+2. **Retrospective papers** discussing the impact, consequences, and lessons learned from classical TPM papers
+3. **Recently accepted papers** at top ML / AI conferences (_in the original format and length_)
 
 ### Topics of interest
 
@@ -67,9 +69,8 @@ Topics of interest include, but are not limited to:
 * Theoretical and empirical analysis of TPMs
 * Connections between TPM classes
 * TPMs for responsible, robust, and explainable AI
-* TPMs for trustworthy ML
 * Approximate inference algorithms with guarantees
-* Successful applications of TPMs to real-world problems
+* Successful applications of TPMs to real-world problems,with a special focus on NeSy AI
 
 ### Submission Instructions
 Original papers and retrospective papers are required to follow the [style guidelines of UAI](https://www.auai.org/uai2025/submission_instructions).

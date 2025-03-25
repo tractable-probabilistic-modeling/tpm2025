@@ -8,8 +8,8 @@ title: Call for Papers
 We invite three types of submissions:
 
 1. **Novel research** on tractable probabilistic modeling
-2. **Retrospective papers** discussing the impact, consequences, and lessons learned
-3. **Recently accepted papers** on tractable probabilistic modeling (_in the original format and length_)
+2. **Retrospective papers** discussing the impact, consequences, and lessons learned from classical TPM papers
+3. **Recently accepted papers** at top ML / AI conferences (_in the original format and length_)
 
 ## Topics of interest
 
@@ -20,9 +20,8 @@ Topics of interest include, but are not limited to:
 * Theoretical and empirical analysis of TPMs
 * Connections between TPM classes
 * TPMs for responsible, robust, and explainable AI
-* TPMs for trustworthy ML
 * Approximate inference algorithms with guarantees
-* Successful applications of TPMs to real-world problems
+* Successful applications of TPMs to real-world problems,with a special focus on NeSy AI
 
 ## Submission Instructions
 Original papers and retrospective papers are required to follow the [style guidelines of UAI](https://www.auai.org/uai2025/submission_instructions). 
