@@ -133,7 +133,11 @@ _**Note:** New OpenReview profiles created without an institutional email will g
 
 {% for item in site.data.organizers  %}
 
-  <li><a href="{{ item.url }}"><strong>{{ item.name }}</strong></a>, {{ item.affiliation }}</li>
+  {% if item.url %}
+    <li><a href="{{ item.url }}"><strong>{{ item.name }}</strong></a>, {{ item.affiliation }}</li>
+  {% else %}
+    <li><strong>{{ item.name }}</strong>, {{ item.affiliation }}</li>
+  {% endif %}
 
 {% endfor %}
 
