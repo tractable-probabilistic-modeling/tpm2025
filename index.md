@@ -3,13 +3,17 @@ layout: default
 ---
 
 <!-- Information -->
-<div class="jumbotron information">
+<h2>About</h2>
+<div class="information">
+
 
 <p>Deploying AI and ML systems to assist decision-making in real-world and safety-critical scenarios, requires different forms of <b>complex reasoning under uncertainty</b>. These scenarios include applications in healthcare and finance, as well as when certifying the fairness, robustness and privacy of ML systems. In all these cases, reasoning needs to be <b>reliable and efficient</b> and flexible enough to deal with <b>constraints and background knowledge</b>.
 The now consolidated field of tractable probabilistic models (TPMs) offers a very appealing approach as TPMs allow for <b>exact inference or come with approximation guarantees</b>, thus providing reliability while still allowing for efficient reasoning for a wide range of tasks, by design.
 </p>
 
-Furthermore, many TPMs provide <b>a natural way to represent logical constraints and principled ways to incorporate them into larger ML systems</b>. The spectrum of TPMs consists of a wide variety of techniques including models with tractable likelihoods (e.g., <b>normalizing flow</b> and <b>autoregressive models</b>), tractable marginals (e.g., <b>bounded-treewidth models</b> and <b>determinantal point processes</b>), and more complex tractable reasoning tasks (e.g., <b>probabilistic and logic circuits, tensor networks</b>).</p>
+<p>
+Furthermore, many TPMs provide <b>a natural way to represent logical constraints and principled ways to incorporate them into larger ML systems</b>. The spectrum of TPMs consists of a wide variety of techniques including models with tractable likelihoods (e.g., <b>normalizing flow</b> and <b>autoregressive models</b>), tractable marginals (e.g., <b>bounded-treewidth models</b> and <b>determinantal point processes</b>), and more complex tractable reasoning tasks (e.g., <b>probabilistic and logic circuits, tensor networks</b>).
+</p>
 
 <p>This new edition of the <b>Tractable Probabilistic Modeling</b> workshop focuses on scaling and providing guarantees when used for <b>probabilistic and logical reasoning</b>, e.g., in neuro-symbolic AI where agents have to model both calibrated uncertainties and satisfy given background knowledge while being efficient. We also welcome contributions around the TPM spectrum that consider only one of the two aspects, and hope to bring the two communities together to advance their respective fields.</p>
 </div>

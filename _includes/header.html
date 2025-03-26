@@ -20,22 +20,11 @@
 </div>
 
 <!-- Navigation fixed-top  -->
-<nav class="navbar navbar-expand-md navbar-light compensate-for-scrollbar py-0">
+<nav class="navbar compensate-for-scrollbar py-0">
 
-  <div class="container">
-    <button
-      class="navbar-toggler ml-auto"
-      type="button"
-      data-toggle="collapse"
-      data-target="#navbarResponsive"
-      aria-controls="navbarResponsive"
-      aria-expanded="false"
-      aria-label="Toggle navigation"
-    >
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav nav ml-auto">
+  <div class="container">    
+    <div class="" id="navbarResponsive">
+      <ul class="navbar-nav nav">
         {% for item in site.data.menu %}
           {% assign class = nil %}
           {% if page.url contains link.url %}

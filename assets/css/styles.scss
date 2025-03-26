@@ -85,9 +85,7 @@ img.blur {
 }
 
 .information {
-    margin-top: 1.2rem;
     font-size: 1.1rem;
-    Padding-top: 1.2rem;
 }
 
 .register-btn {
@@ -158,4 +156,18 @@ h2 {
 }
 
 table {
+}
+
+
+.navbar-nav {
+    flex-direction: row;
+    justify-content: center;
+    gap: 1em;
+    font-size: 1.1em;
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #eee;
 }

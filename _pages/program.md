@@ -3,6 +3,9 @@ layout: default
 permalink: /program/
 title: Program
 ---
+
+# Program 
+
 The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
 
 <table class="table table-striped">
