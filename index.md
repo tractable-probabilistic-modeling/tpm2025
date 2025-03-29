@@ -89,7 +89,7 @@ We also encourage links to public repositories such as GitHub to share code and/
 
 For any questions, please contact us at: [tpmworkshop2025@gmail.com](mailto:tpmworkshop2025@gmail.com)
 
-**Submission using:**  Will be up on OpenReview soon.
+**Submission using:**  [OpenReview](https://openreview.net/group?id=auai.org/UAI/2025/Workshop/TPM)
 
 _**Note:** New OpenReview profiles created without an institutional email will go through a moderation process that can take up to two weeks. OpenReview profiles created with an institutional email will be activated automatically._
 

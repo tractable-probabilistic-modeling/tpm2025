@@ -6,7 +6,7 @@ title: Accepted Papers
 
 # Accepted Papers 
 
-TBD
+Will be published after June 18th, 2025.
 <!-- See all accepted papers on [OpenReview](https://openreview.net/group?id=auai.org/UAI/2025/Workshop/TPM). -->
 
 <ul>
