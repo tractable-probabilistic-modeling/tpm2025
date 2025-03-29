@@ -28,7 +28,7 @@ Furthermore, many TPMs provide <b>a natural way to represent logical constraints
 {% for item in site.data.speakers  %}
 
 <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
-  <a href="{{ item.url }}">
+  <a href="{{ item.url }}" target="_blank">
   <div class="team-member">
 
     {% if item.img %}

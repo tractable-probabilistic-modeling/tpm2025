@@ -1,29 +1,29 @@
 - name: Eleonora Giunchiglia
-  url: 
+  url: https://profiles.imperial.ac.uk/e.giunchiglia
   affiliation: Imperial College London, UK
-  img: 
+  img: eleonora_giunchiglia.webp
   abstract: Neuro-symbolic reasoning and imposing constraints on ML systems
   
 - name: Efthymia Tsamoura
-  url: 
+  url: https://www.turing.ac.uk/people/efthymia-tsamoura
   affiliation: Samsung AI
-  img: 
+  img: efy_tsamoura.png
   abstract: Theoretical aspects of neuro-symbolic reasoning, planning and probabilistic databases
   
 - name: Kareem Ahmed
-  url: 
+  url: https://kareemahmed.com/
   affiliation: University of California, Irvine, USA
-  img: 
+  img: kareem_ahmed.jpg
   abstract: Neuro-symbolic reasoning and scaling tractable probabilistic models
   
 - name: Cassio De Campos
-  url: 
+  url: https://uai.win.tue.nl/author/cassio-de-campos/
   affiliation: TU Eindhoven, NL
-  img: 
+  img: cassio_de_campos.jpg
   abstract: Complexity of tractability, uncertainty quantification via imprecise probability, probabilistic circuits
   
 - name: Qibin Zhao
-  url: 
+  url: https://qibinzhao.github.io/ 
   affiliation: Tensor Learning Team, RIKEN AIP
-  img: 
+  img: qibinZhao.png
   abstract: Low-rank representations and tensor networks
