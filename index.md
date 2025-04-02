@@ -21,7 +21,7 @@ Furthermore, many TPMs provide <b>a natural way to represent logical constraints
 
 <!-- Content -->
 
-<h2>Confirmed Speakers</h2>
+<h2>Tentative Speakers</h2>
 
 <div class="row justify-content-center people-widget text-center">
 
@@ -109,7 +109,7 @@ _**Note:** New OpenReview profiles created without an institutional email will g
 
 <h2>Previous Workshops</h2>
 <ul>
-<li><a href="https://tractable-probabilistic-modeling.github.io/tpm2024/">7th Workshop on Tractable Probabilistic Modeling (2023)</a></li>
+<li><a href="https://tractable-probabilistic-modeling.github.io/tpm2024/">7th Workshop on Tractable Probabilistic Modeling (2024)</a></li>
   <li><a href="https://tractable-probabilistic-modeling.github.io/tpm2023/">6th Workshop on Tractable Probabilistic Modeling (2023)</a></li>
   <li><a href="https://tractable-probabilistic-modeling.github.io/tpm2022/">5th Workshop on Tractable Probabilistic Modeling (2022)</a></li>
   <li><a href="https://sites.google.com/view/tpm2021">4th Workshop on Tractable Probabilistic Modeling (2021)</a></li>
