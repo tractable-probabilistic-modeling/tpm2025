@@ -21,7 +21,7 @@ Furthermore, many TPMs provide <b>a natural way to represent logical constraints
 
 <!-- Content -->
 
-<h2>Tentative Speakers</h2>
+<h2>Confirmed Speakers</h2>
 
 <div class="row justify-content-center people-widget text-center">
 
@@ -45,7 +45,7 @@ Furthermore, many TPMs provide <b>a natural way to represent logical constraints
 </div>
 
 {% endfor %}
-
+<p style="margin-top:20px;margin-bottom:0px"><strong>More speakers to be announced soon!</strong></p>
 </div>
 
 <h2>Workshop Program</h2>
