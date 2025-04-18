@@ -21,7 +21,32 @@ Furthermore, many TPMs provide <b>a natural way to represent logical constraints
 
 <!-- Content -->
 
+<h2>Tentative Speakers</h2>
 
+<div class="row justify-content-center people-widget text-center">
+
+{% for item in site.data.speakers  %}
+
+<div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+  <a href="{{ item.url }}" target="_blank">
+  <div class="team-member">
+
+    {% if item.img %}
+    <img src="{{ site.baseurl }}/assets/speakers/{{ item.img }}" class="img-responsive img-circle avatar-x2 avatar-circle" alt="">
+    {% else %}
+    <div class="avatar-x2 avatar-circle" style="background: #ddd;">
+      <i class="fa fa-user" style="font-size: 220px; color: #eee; margin-top:20px;"></i>
+    </div>
+    {% endif %}
+    <h4>{{ item.name }}</h4>
+    <p class="text-muted">{{ item.affiliation }}</p>
+  </div>
+  </a>
+</div>
+
+{% endfor %}
+
+</div>
 
 <h2>Workshop Program</h2>
 The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
