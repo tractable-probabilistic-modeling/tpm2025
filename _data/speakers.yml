@@ -2,16 +2,22 @@
   url: https://tsamoura.github.io
   affiliation: Huawei Labs
   img: efy_tsamoura.png
-  abstract: Theoretical aspects of neuro-symbolic reasoning, planning and probabilistic databases
+  abstract: Theoretical aspects of neurosymbolic reasoning, planning and probabilistic databases
   
 - name: Kareem Ahmed
   url: https://kareemahmed.com/
   affiliation: University of California, Irvine, USA
   img: kareem_ahmed.jpg
-  abstract: Neuro-symbolic reasoning and scaling tractable probabilistic models
+  abstract: Neurosymbolic reasoning and scaling tractable probabilistic models
   
 - name: Cassio De Campos
   url: https://uai.win.tue.nl/author/cassio-de-campos/
   affiliation: TU Eindhoven, NL
   img: cassio_de_campos.jpg
   abstract: Complexity of tractability, uncertainty quantification via imprecise probability, probabilistic circuits
+
+- name: Pedro Zuidberg Dos Martines
+  url: https://pedrozudo.github.io/
+  affiliation: TU Eindhoven, Sweden
+  img: pedro_zuidberg_dos_martires.jpg
+  abstract: Structured and Unstructured Sparsity in Probabilistic Neurosymbolic AI
