@@ -15,3 +15,9 @@
   affiliation: TU Eindhoven, NL
   img: cassio_de_campos.jpg
   abstract: Complexity of tractability, uncertainty quantification via imprecise probability, probabilistic circuits
+
+- name: Pedro Zuidberg Dos Martines
+  url: https://pedrozudo.github.io/
+  affiliation: TU Eindhoven, Sweden
+  img: pedro_zuidberg_dos_martires.jpg
+  abstract: Structured and Unstructured Sparsity in Probabilistic Neurosymbolic AI
