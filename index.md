@@ -121,22 +121,33 @@ _**Note:** New OpenReview profiles created without an institutional email will g
 
 <div class="row justify-content-center people-widget text-center">
 
-<div class="col-12 col-sm-4 col-md-3 col-lg-2 col-xl-2">
-  <a href="{{ item.url }}">
+{% for item in site.data.organizers  %}
+
+<div class="col-sm-3">
+  <a href="{{ item.url }}" target="_blank">
   <div class="team-member">
-    <!-- <img src="{{ site.baseurl }}/assets/speakers/{{ item.img }}" class="img-responsive img-circle avatar avatar-circle" alt=""></br> -->
+
+    {% if item.img %}
+    <img src="{{ site.baseurl }}/assets/organisers/{{ item.img }}" class="img-responsive img-circle avatar-x2 avatar-circle" alt="">
+    {% else %}
+    <div class="avatar-x2 avatar-circle" style="background: #ddd;">
+      <i class="fa fa-user" style="font-size: 220px; color: #eee; margin-top:20px;"></i>
+    </div>
+    {% endif %}
+
     <strong>{{ item.name }}</strong>
     <!-- <p class="text-muted">{{ item.affiliation }}</p> -->
   </div>
   </a>
 </div>
 
-</div>
+{% endfor %}
 
+</div>
 
 <ul>
 
-{% for item in site.data.organizers  %}
+<!-- {% for item in site.data.organizers  %}
 
   {% if item.url %}
     <li><a href="{{ item.url }}"><strong>{{ item.name }}</strong></a>, {{ item.affiliation }}</li>
@@ -144,7 +155,7 @@ _**Note:** New OpenReview profiles created without an institutional email will g
     <li><strong>{{ item.name }}</strong>, {{ item.affiliation }}</li>
   {% endif %}
 
-{% endfor %}
+{% endfor %} -->
 
 </ul>
 
