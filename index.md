@@ -32,7 +32,7 @@ Furthermore, many TPMs provide <b>a natural way to represent logical constraints
   <div class="team-member">
 
     {% if item.img %}
-    <img src="{{ site.baseurl }}/assets/speakers/{{ item.img }}" class="img-responsive img-circle avatar-x2 avatar-circle" alt="">
+    <img src="{{ site.baseurl }}/assets/speakers/{{ item.img }}" class="img-responsive img-circle avatar-x2 avatar-circle" alt="{{ item.name }}">
     {% else %}
     <div class="avatar-x2 avatar-circle" style="background: #ddd;">
       <i class="fa fa-user" style="font-size: 220px; color: #eee; margin-top:20px;"></i>
@@ -45,6 +45,8 @@ Furthermore, many TPMs provide <b>a natural way to represent logical constraints
 </div>
 
 {% endfor %}
+</div>
+<div class="text-center">
 <p style="margin-top:20px;margin-bottom:0px"><strong>More speakers to be announced soon!</strong></p>
 </div>
 
@@ -119,11 +121,12 @@ _**Note:** New OpenReview profiles created without an institutional email will g
 
 <h2>Organizers</h2>
 
-<div class="row justify-content-center people-widget text-center">
+<div class="row justify-content-center people-widget text-center" style="margin-bottom: 80px;">
+
 
 {% for item in site.data.organizers  %}
 
-<div class="col-sm-3">
+<div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-3">
   <a href="{{ item.url }}" target="_blank">
   <div class="team-member">
 
@@ -135,7 +138,7 @@ _**Note:** New OpenReview profiles created without an institutional email will g
     </div>
     {% endif %}
 
-    <strong>{{ item.name }}</strong>
+    <h4>{{ item.name }}</h4>
     <!-- <p class="text-muted">{{ item.affiliation }}</p> -->
   </div>
   </a>
@@ -145,19 +148,6 @@ _**Note:** New OpenReview profiles created without an institutional email will g
 
 </div>
 
-<ul>
-
-<!-- {% for item in site.data.organizers  %}
-
-  {% if item.url %}
-    <li><a href="{{ item.url }}"><strong>{{ item.name }}</strong></a>, {{ item.affiliation }}</li>
-  {% else %}
-    <li><strong>{{ item.name }}</strong>, {{ item.affiliation }}</li>
-  {% endif %}
-
-{% endfor %} -->
-
-</ul>
 
 
 
