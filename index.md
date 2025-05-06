@@ -85,9 +85,9 @@ Already accepted papers can be submitted in the format of the venue they have be
 Supplementary material can be put in the same pdf paper (after references); it is entirely up to the reviewers to decide whether they wish to consult this additional material.
 
 All submissions must be electronic (through the link below), and must closely follow the formatting guidelines in the templates, otherwise, they will automatically be rejected. 
-Reviewing for TPM is single-blind; i.e., reviewers will know the authors’ identity but authors won't know the reviewers' identity. 
-However, we recommend that you refer to your prior work in the third person wherever possible. 
-We also encourage links to public repositories such as GitHub to share code and/or data.
+Reviewing for TPM is double-blind; i.e., the identity of the authors is not revealed to the reviewers and vice versa.
+Therefore, you should refer to your prior work in the third person. 
+We encourage links to public anonymous repositories such as GitHub to share code and/or data.
 
 For any questions, please contact us at: [tpmworkshop2025@gmail.com](mailto:tpmworkshop2025@gmail.com)
 
