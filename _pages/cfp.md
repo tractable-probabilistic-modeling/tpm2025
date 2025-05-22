@@ -25,12 +25,12 @@ Topics of interest include, but are not limited to:
 
 ## Submission Instructions
 Original papers and retrospective papers are required to follow the [style guidelines of UAI](https://www.auai.org/uai2025/submission_instructions). 
-Submitted papers should be **up to 4 pages long**, excluding references. 
-Already accepted papers can be submitted in the format of the venue they have been accepted to. 
+Submitted novel and retrospective papers should be **up to 4 pages long**, excluding references. 
+Already accepted papers can be submitted in the format and length of the venue they have been accepted to. 
 Supplementary material can be put in the same pdf paper (after references); it is entirely up to the reviewers to decide whether they wish to consult this additional material.
 
 All submissions must be electronic (through the link below), and must closely follow the formatting guidelines in the templates, otherwise, they will automatically be rejected. 
-Reviewing for TPM is double-blind; i.e., the identity of the authors is not revealed to the reviewers and vice versa.
+Reviewing for TPM is double-blind; i.e., the identity of the authors is not revealed to the reviewers and vice versa, this excludes recently accepted papers, which will be reviewed single-blind.
 Therefore, you should refer to your prior work in the third person. 
 We encourage links to public anonymous repositories such as GitHub to share code and/or data.
 
