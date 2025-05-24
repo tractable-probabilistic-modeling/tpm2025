@@ -18,6 +18,20 @@ Furthermore, many TPMs provide <b>a natural way to represent logical constraints
 <p>This new edition of the <b>Tractable Probabilistic Modeling</b> workshop focuses on scaling and providing guarantees when used for <b>probabilistic and logical reasoning</b>, e.g., in neuro-symbolic AI where agents have to model both calibrated uncertainties and satisfy given background knowledge while being efficient. We also welcome contributions around the TPM spectrum that consider only one of the two aspects, and hope to bring the two communities together to advance their respective fields.</p>
 </div>
 
+<h2>Important dates</h2>
+
+All times are end-of-day AOE.
+
+<ul>
+
+{% for item in site.deadlines  %}
+
+  <li>{{ item.item }}: <strong>{{ item.date }}</strong></li>
+
+{% endfor %}
+
+</ul>
+
 
 <!-- Content -->
 

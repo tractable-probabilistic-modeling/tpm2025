@@ -1,6 +1,6 @@
 
 baseurl: "https://tractable-probabilistic-modeling.github.io/tpm2025/"
-color-scheme: "#1a2090" #the scheme can be any HEX code like "#334279"
+color-scheme: "#1a908e" #the scheme can be any HEX code like "#334279"
 
 sass:
   sass_dir: /assets/css/_sass
@@ -24,7 +24,7 @@ organizers: "TPM 2025 Organizers"
 
 deadlines:
   - item: Submission deadline
-    date: May 23th, 2025
+    date: June 2nd, 2025 <b><i>extended!</i></b>
   
   - item: Expected notification of acceptance
     date: June 18th, 2025
