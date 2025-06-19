@@ -1,2 +1,61 @@
-- title: ""
-  authors: ""
+- authors: Steven Braun, Sahil Sidheekh, Sriraam Natarajan, Antonio Vergari, Martin
+    Mundt, Kristian Kersting
+  title: Autoencoding Probabilistic Circuits
+- authors: Armin Hadžić, Milan Papez, Tomáš Pevný
+  title: Distillation of a tractable model from the VQ-VAE
+- authors: Florian Peter Busch, Moritz Willig, Matej Zečević, Kristian Kersting, Devendra
+    Singh Dhami
+  title: Counterfactual Sum-Product Networks
+- authors: Jonas Seng, Florian Peter Busch, Pooja Prasad, Devendra Singh Dhami, Martin
+    Mundt, Kristian Kersting
+  title: Scaling Probabilistic Circuits via Data Partitioning
+- authors: Vladislav Trifonov, Ivan Oseledets, Ekaterina Muravleva
+  title: Geological Field Restoration through the Lens of Image Inpainting
+- authors: Lennert De Smet, Pedro Zuidberg Dos Martires
+  title: 'A Fast Convoluted Story: Scaling Probabilistic Inference for Integer Arithmetics'
+- authors: Laura Battaglia, Tyler Farghly, Stefano Cortinovis, Daniel de Vassimon
+    Manela, Amitis Shidani, Christopher Williams
+  title: Copula Diffusion Modelling Under Marginal Constraints
+- authors: Poorva Garg, Benjie Wang, Oliver Broadrick, Guy Van den Broeck, Todd Millstein
+  title: Bitblasting for Tractable Constrained Decorrelation in Image Modeling
+- authors: Putri A Van der Linden, Alexander Timans, Dharmesh Tailor, Erik J Bekkers
+  title: On Equivariant Model Selection through the Lens of Uncertainty
+- authors: Johannes Exenberger, Sascha Ranftl, Robert Peharz
+  title: Deep Polynomial Chaos Expansion
+- authors: Soroush Ghandi, Benjamin Quost, Cassio de Campos
+  title: Integrating Constraints via Probabilistic Circuits
+- authors: Alejandro Almodóvar, Adrián Javaloy, Juan Parras, Santiago Zazo, Isabel
+    Valera
+  title: 'DeCaFlow: A Deconfounding Causal Generative Model'
+- authors: Martin Andraud, Lingyun Yao, Karthekeyan Periasamy, Jelin Leslin, Martin
+    Trapp
+  title: 'Computing Tractable Probabilistic Models: A Hardware Perspective'
+- authors: Anji Liu, Guy Van den Broeck
+  title: Rethinking Probabilistic Circuit Parameter Learning
+- authors: Weixin Chen, Simon Yu, Huajie Shao, Lui Sha, Han Zhao
+  title: 'Neural Probabilistic Circuits: An Overview'
+- authors: Daniil Sherki, Ivan Oseledets, Ekaterina Muravleva
+  title: 'Bayesian Inverse Problems Meet Flow Matching: Efficient and Flexible Inference
+    via Transformers'
+- authors: Jonas Rodrigues Lima Goncalves, Denis Mauá
+  title: On the Relationship between And-Sum Circuits and Deterministic Boolean Circuits
+- authors: Thomas Wedenig, Robert Peharz
+  title: Effective Diffusion-free Score Matching for Exact Conditional Sampling
+- authors: Leander Kurscheidt, Paolo Morettin, Roberto Sebastiani, Andrea Passerini,
+    Antonio Vergari
+  title: A Probabilistic Neuro-symbolic Layer for Algebraic Constraint Satisfaction
+- authors: Pedro Zuidberg Dos Martires
+  title: A Quantum Information Theoretic Approach to Tractable Probabilistic Models
+- authors: Martin Rektoris, Milan Papez, Vaclav Smidl, Tomáš Pevný
+  title: Sparse Probabilistic Graph Circuits
+- authors: Diptesh Das, Ichiro Takeuchi, Koji Tsuda
+  title: Statistically Robust Sparse High-order Interaction Model
+- authors: John Leland, YooJung Choi
+  title: On the Hardness of Approximating Distributions with Probabilistic Circuits
+- authors: Milan Papez, Martin Rektoris, Vaclav Smidl, Tomáš Pevný
+  title: 'Probabilistic Graph Circuits: Deep Generative Models for Tractable Probabilistic
+    Inference over Graphs'
+- authors: Aleksanteri Sladek, Martin Trapp, Arno Solin
+  title: Approximate Bayesian Inference via Bitstring Representations
+- authors: Jaron Maene, Vincent Derkinderen, Pedro Zuidberg Dos Martires
+  title: 'KLay: Accelerating Arithmetic Circuits for Neurosymbolic AI'

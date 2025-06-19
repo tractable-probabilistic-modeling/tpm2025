@@ -69,8 +69,7 @@ The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
 See <a href="{{site.baseurl}}/program">program</a> for details!
 
 <h2>Accepted Papers</h2>
-Will be published after June 18th, 2025.
-
+The list of accepted papers can be found <a href="{{site.baseurl}}/papers/">here</a>.
 
 <h2>Call for Papers</h2>
 
