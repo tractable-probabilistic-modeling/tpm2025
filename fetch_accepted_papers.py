@@ -17,13 +17,16 @@ def fetch_papers_from_openreview(venue_id, output_file):
     print('===> Submission name')
     print(submission_name)
     notes = client.get_all_notes(content={'venueid':venue_id} )
-    print(notes)
+    #print(notes[0])
 
     papers = []
     for note in notes:
         paper = {
             'title': note.content['title']['value'],
             'authors': ', '.join(note.content['authors']['value']),
+            'pdf_url': 'https://openreview.net/pdf?id=' + note.id,
+            # 'abstract': note.content['abstract']['value'],
+            'url': 'https://openreview.net/forum?id=' + note.id,
         }
         papers.append(paper)
 
