@@ -16,8 +16,7 @@ def fetch_papers_from_openreview(venue_id, output_file):
     submission_name = venue_group.content['submission_name']['value']
     print('===> Submission name')
     print(submission_name)
-    #notes = client.get_group(id='auai.org/UAI/2025/Workshop/TPM')
-    notes = client.get_all_notes(invitation=f'{venue_id}/-/{submission_name}')
+    notes = client.get_all_notes(content={'venueid':venue_id} )
     print(notes)
 
     papers = []
