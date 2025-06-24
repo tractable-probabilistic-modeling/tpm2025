@@ -92,7 +92,7 @@ Topics of interest include, but are not limited to:
 * Successful applications of TPMs to real-world problems,with a special focus on NeSy AI
 
 ### Submission Instructions
-Original papers and retrospective papers are required to follow the [style guidelines of UAI](https://www.auai.org/uai2025/submission_instructions).
+Original papers and retrospective papers are required to follow the style guidelines of UAI and should use the adjusted template <a href="/assets/tpm2025-template.zip">TPM format</a>.
 Submitted papers should be **up to 4 pages long**, excluding references. 
 Already accepted papers can be submitted in the format and length of the venue they have been accepted to. 
 Supplementary material can be put in the same pdf paper (after references); it is entirely up to the reviewers to decide whether they wish to consult this additional material.
