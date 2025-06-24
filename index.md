@@ -60,9 +60,7 @@ All times are end-of-day AOE.
 
 {% endfor %}
 </div>
-<div class="text-center">
-<p style="margin-top:20px;margin-bottom:0px"><strong>More speakers to be announced soon!</strong></p>
-</div>
+
 
 <h2>Workshop Program</h2>
 The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
