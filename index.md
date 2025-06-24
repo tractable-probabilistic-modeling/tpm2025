@@ -108,19 +108,6 @@ For any questions, please contact us at: [tpmworkshop2025@gmail.com](mailto:tpmw
 
 _**Note:** New OpenReview profiles created without an institutional email will go through a moderation process that can take up to two weeks. OpenReview profiles created with an institutional email will be activated automatically._
 
-<h2>Important Dates</h2>
-
-<p>All times are end of day AOE.</p>
-
-<ul>
-
-{% for item in site.deadlines  %}
-
-  <li>{{ item.item }}: <strong>{{ item.date }}</strong></li>
-
-{% endfor %}
-
-</ul>
 
 <h2>Previous Workshops</h2>
 <ul>
