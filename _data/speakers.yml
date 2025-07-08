@@ -2,22 +2,26 @@
   url: https://tsamoura.github.io
   affiliation: Huawei Labs
   img: efy_tsamoura.png
-  abstract: Theoretical aspects of neurosymbolic reasoning, planning and probabilistic databases
+  title: Theoretical aspects of neurosymbolic reasoning, planning and probabilistic databases
+  abstract: ""
   
 - name: Kareem Ahmed
   url: https://kareemahmed.com/
   affiliation: University of California, Irvine, USA
   img: kareem_ahmed.jpg
-  abstract: Neurosymbolic reasoning and scaling tractable probabilistic models
+  title: Neurosymbolic reasoning and scaling tractable probabilistic models
+  abstract: ""
   
 - name: Cassio De Campos
   url: https://uai.win.tue.nl/author/cassio-de-campos/
   affiliation: TU Eindhoven, NL
   img: cassio_de_campos.jpg
-  abstract: Complexity of tractability, uncertainty quantification via imprecise probability, probabilistic circuits
+  title: Credal Probabilistic Circuits
+  abstract: Probabilistic Circuits (PCs) are versatile models that encode a joint probability distribution with the use of a discrete latent space. They allow for tractable computations of multiple types of queries. Credal PCs extend PCs by allowing the specification of convex sets of parameters, thus representing a set of PCs sharing the same structure. They have been shown useful in the analysis of robustness of inferences, treatment of complicated missing data, and improvement of privacy. We look at their capabilities for large-scale uncertainty treatment, discussing model properties and algorithms. Finally, we dive into the possibility of extending these models to leverage continuous latent spaces.
 
 - name: Pedro Zuidberg Dos Martines
   url: https://pedrozudo.github.io/
   affiliation: Örebro University, Sweden
   img: pedro_zuidberg_dos_martires_crop.jpg
-  abstract: Structured and Unstructured Sparsity in Probabilistic Neurosymbolic AI
+  title: Structured and Unstructured Sparsity in Probabilistic Neurosymbolic AI
+  abstract: ""

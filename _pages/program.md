@@ -10,8 +10,8 @@ The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
 
 <table class="table table-striped">
     <colgroup>
-       <col span="1" style="width: 30%;">
-       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 20%;">
+       <col span="1" style="width: 80%;">
     </colgroup>
     <thead>
     <tr>
@@ -25,36 +25,67 @@ The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
         <td>Welcome and Best Paper Awards</td>
     </tr>
     <tr>
-        <td>9:15 - 10:00</td>
-        <td>Spotlight Presentations</td>
+        <td>9:20 - 10:00</td>
+        <td>Invited Talk I</td>
     </tr>
     <tr>
-        <td>10:00 - 11:00</td>
-        <td>Poster Session I & Coffee Break</td>
+        <td>10:00 - 10:30</td>
+        <td>Coffee Break</td>
     </tr>
     <tr>
-        <td>11:00 - 12:30</td>
-        <td>Invited Talks</td>
+        <td>10:30 - 11:10</td>
+        <td>Invited Talk II</td>
     </tr>
     <tr>
-        <td>12:30 - 2:00</td>
-        <td>Lunch Break</td>
+        <td>11:10 - 12:20</td>
+        <td>Poster Session I</td>
     </tr>
     <tr>
-        <td>2:00 - 3:30</td>
-        <td>Invited Talks</td>
+        <td>12:20 - 14:20</td>
+        <td>Lunch Break (on your own)</td>
     </tr>
     <tr>
-        <td>3:30 - 4:15</td>
-        <td>Spotlight Presentations</td>
+        <td>14:20 - 15:00</td>
+        <td>Invited Talk III</td>
     </tr>
     <tr>
-        <td>4:15 - 5:30</td>
-        <td>Poster Session II & Coffee Break</td>
+        <td>15:00 - 15:30</td>
+        <td>Coffee Break</td>
     </tr>
     <tr>
-        <td>5:30 - 6:30</td>
-        <td>Panel discussion and closing remarks</td>
+        <td>15:30 - 17:00</td>
+        <td>Poster Session II</td>
+    </tr>
+    <tr>
+        <td>17:00 - 17:40</td>
+        <td>Invited Talk IV</td>
+    </tr>
+    <tr>
+        <td>17:40 - 18:20</td>
+        <td>Invited Talk V</td>
+    </tr>
+    <tr>
+        <td>18:20 - 18:30</td>
+        <td>Closing Remarks</td>
     </tr>
     </tbody>
 </table>
+
+---
+
+## Invited Talks
+
+<ul>
+{% assign sortedSpeakers = site.data.speakers | sort: 'title' %}
+{% for item in sortedSpeakers %}
+  {% if item.abstract != "" %}
+  <li>
+    <h4> {{ item.title }} </h4>
+    <p><a href="{{ item.url }}" target="_blank" ><strong>{{ item.name }}</strong></a> ({{ item.affiliation }})</p>
+    <p><strong>Abstract: </strong>{{ item.abstract }}</p>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+
