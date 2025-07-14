@@ -26,7 +26,7 @@ The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
     </tr>
     <tr>
         <td>9:20 - 10:00</td>
-        <td>Invited Talk I</td>
+        <td>Invited Talk I - Kareem Ahmed</td>
     </tr>
     <tr>
         <td>10:00 - 10:30</td>
@@ -34,7 +34,7 @@ The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
     </tr>
     <tr>
         <td>10:30 - 11:10</td>
-        <td>Invited Talk II</td>
+        <td>Invited Talk II - Efthymia Tsamoura</td>
     </tr>
     <tr>
         <td>11:10 - 12:20</td>
@@ -46,7 +46,7 @@ The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
     </tr>
     <tr>
         <td>14:20 - 15:00</td>
-        <td>Invited Talk III</td>
+        <td>Invited Talk III - Pedro Zuidberg Dos Martines</td>
     </tr>
     <tr>
         <td>15:00 - 15:30</td>
@@ -58,7 +58,7 @@ The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
     </tr>
     <tr>
         <td>17:00 - 17:40</td>
-        <td>Invited Talk IV</td>
+        <td>Invited Talk IV - Cassio De Campos</td>
     </tr>
     <tr>
         <td>17:40 - 18:20</td>
