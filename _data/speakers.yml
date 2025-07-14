@@ -24,4 +24,6 @@
   affiliation: Örebro University, Sweden
   img: pedro_zuidberg_dos_martires_crop.jpg
   title: Structured and Unstructured Sparsity in Probabilistic Neurosymbolic AI
-  abstract: ""
+  abstract: In order to perform learning, data has to exhibit a certain degree of sparsity. In neurosymbolic AI this sparsity is expressed explicitly via formal languages. In this talk I will  sketch how such sparsity can be exploited efficiently using modern AI hardware in the context of probabilistic neurosymbolic AI.
+
+
