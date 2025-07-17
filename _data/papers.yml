@@ -1,3 +1,8 @@
+- authors: Weixin Chen, Simon Yu, Huajie Shao, Lui Sha, Han Zhao
+  pdf_url: https://openreview.net/pdf?id=cBoYAtNwrg
+  title: 'Neural Probabilistic Circuits: An Overview'
+  url: https://openreview.net/forum?id=cBoYAtNwrg
+  video: https://youtu.be/rFduMdSHRBM
 - authors: Steven Braun, Sahil Sidheekh, Sriraam Natarajan, Antonio Vergari, Martin
     Mundt, Kristian Kersting
   pdf_url: https://openreview.net/pdf?id=zgxp6sNpie
@@ -56,10 +61,6 @@
   pdf_url: https://openreview.net/pdf?id=dhDn8Jj6Ip
   title: Rethinking Probabilistic Circuit Parameter Learning
   url: https://openreview.net/forum?id=dhDn8Jj6Ip
-- authors: Weixin Chen, Simon Yu, Huajie Shao, Lui Sha, Han Zhao
-  pdf_url: https://openreview.net/pdf?id=cBoYAtNwrg
-  title: 'Neural Probabilistic Circuits: An Overview'
-  url: https://openreview.net/forum?id=cBoYAtNwrg
 - authors: Daniil Sherki, Ivan Oseledets, Ekaterina Muravleva
   pdf_url: https://openreview.net/pdf?id=Vl6oJQLZPf
   title: 'Bayesian Inverse Problems Meet Flow Matching: Efficient and Flexible Inference
