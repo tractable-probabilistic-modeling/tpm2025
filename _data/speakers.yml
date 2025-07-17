@@ -2,8 +2,9 @@
   url: https://tsamoura.github.io
   affiliation: Huawei Labs
   img: efy_tsamoura.png
-  title: Theoretical aspects of neurosymbolic reasoning, planning and probabilistic databases
-  abstract: ""
+  title: "Imbalances in Neurosymbolic Learning: Characterization and Mitigation"
+  abstract: "This talk considers one of the most popular neurosymbolic learning settings in which a neural classifier is learned assuming access to (1) a vector of inputs and (2) the result of applying a symbolic component, e.g., a logical theory, over the gold labels of the inputs. The gold labels themselves are hidden from the learner. This setting has been one of the most well-studied ones in the context of neurosymbolic learning, finding numerous applications, including fine-tuning language models, aligning video to text, and learning knowledge graph embeddings. We study, for the first time, an unexplored topic in this setting: the characterization and mitigation of learning imbalances, i.e., significant differences in errors that occur when classifying instances of different classes. Our theoretical analysis reveals a unique phenomenon: that the symbolic component can greatly impact learning imbalances. This result sharply contrasts with previous research on supervised and weakly supervised learning, which suggests that learning imbalances are only due to data imbalances. On the practical side, we introduce algorithms that mitigate imbalances at training and testing time by treating the marginal of the hidden labels as a constraint. Our empirical analysis shows that our techniques lead to performance improvements of up to 14% over strong baselines from the neurosymbolic and long-tailed learning literature."
+  session: 2
   
 - name: Kareem Ahmed
   url: https://kareemahmed.com/
@@ -11,6 +12,7 @@
   img: kareem_ahmed.jpg
   title: Neurosymbolic reasoning and scaling tractable probabilistic models
   abstract: ""
+  session: 1
   
 - name: Cassio De Campos
   url: https://uai.win.tue.nl/author/cassio-de-campos/
@@ -18,6 +20,7 @@
   img: cassio_de_campos.jpg
   title: Credal Probabilistic Circuits
   abstract: Probabilistic Circuits (PCs) are versatile models that encode a joint probability distribution with the use of a discrete latent space. They allow for tractable computations of multiple types of queries. Credal PCs extend PCs by allowing the specification of convex sets of parameters, thus representing a set of PCs sharing the same structure. They have been shown useful in the analysis of robustness of inferences, treatment of complicated missing data, and improvement of privacy. We look at their capabilities for large-scale uncertainty treatment, discussing model properties and algorithms. Finally, we dive into the possibility of extending these models to leverage continuous latent spaces.
+  session: 4
 
 - name: Pedro Zuidberg Dos Martines
   url: https://pedrozudo.github.io/
@@ -25,5 +28,6 @@
   img: pedro_zuidberg_dos_martires_crop.jpg
   title: Structured and Unstructured Sparsity in Probabilistic Neurosymbolic AI
   abstract: In order to perform learning, data has to exhibit a certain degree of sparsity. In neurosymbolic AI this sparsity is expressed explicitly via formal languages. In this talk I will  sketch how such sparsity can be exploited efficiently using modern AI hardware in the context of probabilistic neurosymbolic AI.
+  session: 3
 
 

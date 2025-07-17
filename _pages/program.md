@@ -72,7 +72,7 @@ The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
 ## Invited Talks
 
 <ul>
-{% assign sortedSpeakers = site.data.speakers | sort: 'title' %}
+{% assign sortedSpeakers = site.data.speakers | sort: 'session' %}
 {% for item in sortedSpeakers %}
   {% if item.abstract != "" %}
   <li>
