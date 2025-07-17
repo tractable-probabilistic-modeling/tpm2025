@@ -61,11 +61,7 @@ The workshop will happen in person in Rio de Janeiro, Brazil on July 25th, 2025.
         <td>Invited Talk IV - Cassio De Campos</td>
     </tr>
     <tr>
-        <td>17:40 - 18:20</td>
-        <td>Invited Talk V</td>
-    </tr>
-    <tr>
-        <td>18:20 - 18:30</td>
+        <td>17:40 - 18:00</td>
         <td>Closing Remarks</td>
     </tr>
     </tbody>
