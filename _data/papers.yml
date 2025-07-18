@@ -1,110 +1,158 @@
+
 - authors: Weixin Chen, Simon Yu, Huajie Shao, Lui Sha, Han Zhao
   pdf_url: https://openreview.net/pdf?id=cBoYAtNwrg
   title: 'Neural Probabilistic Circuits: An Overview'
+  session: nil
   url: https://openreview.net/forum?id=cBoYAtNwrg
   video: https://youtu.be/rFduMdSHRBM
+
 - authors: Steven Braun, Sahil Sidheekh, Sriraam Natarajan, Antonio Vergari, Martin
     Mundt, Kristian Kersting
   pdf_url: https://openreview.net/pdf?id=zgxp6sNpie
   title: Autoencoding Probabilistic Circuits
+  session: II
   url: https://openreview.net/forum?id=zgxp6sNpie
+
 - authors: Armin Hadžić, Milan Papez, Tomáš Pevný
   pdf_url: https://openreview.net/pdf?id=xATIKcCS84
   title: Distillation of a tractable model from the VQ-VAE
+  session: II
   url: https://openreview.net/forum?id=xATIKcCS84
+
 - authors: Florian Peter Busch, Moritz Willig, Matej Zečević, Kristian Kersting, Devendra
     Singh Dhami
   pdf_url: https://openreview.net/pdf?id=wLIsmzqzWJ
   title: Counterfactual Sum-Product Networks
+  session: II
   url: https://openreview.net/forum?id=wLIsmzqzWJ
+
 - authors: Jonas Seng, Florian Peter Busch, Pooja Prasad, Devendra Singh Dhami, Martin
     Mundt, Kristian Kersting
   pdf_url: https://openreview.net/pdf?id=wCYrbvhFJa
   title: Scaling Probabilistic Circuits via Data Partitioning
+  session: I
   url: https://openreview.net/forum?id=wCYrbvhFJa
+
 - authors: Lennert De Smet, Pedro Zuidberg Dos Martires
   pdf_url: https://openreview.net/pdf?id=rjwX4u408p
   title: 'A Fast Convoluted Story: Scaling Probabilistic Inference for Integer Arithmetics'
+  session: II
   url: https://openreview.net/forum?id=rjwX4u408p
+
 - authors: Laura Battaglia, Tyler Farghly, Stefano Cortinovis, Daniel de Vassimon
     Manela, Amitis Shidani, Christopher Williams
   pdf_url: https://openreview.net/pdf?id=qgh3FsQyZk
   title: Copula Diffusion Modelling Under Marginal Constraints
+  session: II
   url: https://openreview.net/forum?id=qgh3FsQyZk
+
 - authors: Poorva Garg, Benjie Wang, Oliver Broadrick, Guy Van den Broeck, Todd Millstein
   pdf_url: https://openreview.net/pdf?id=opxz5NGF9p
   title: Bitblasting for Tractable Constrained Decorrelation in Image Modeling
+  session: I
   url: https://openreview.net/forum?id=opxz5NGF9p
+
 - authors: Putri A Van der Linden, Alexander Timans, Dharmesh Tailor, Erik J Bekkers
   pdf_url: https://openreview.net/pdf?id=lr1QyFeFuf
   title: On Equivariant Model Selection through the Lens of Uncertainty
+  session: I
   url: https://openreview.net/forum?id=lr1QyFeFuf
+
 - authors: Johannes Exenberger, Sascha Ranftl, Robert Peharz
   pdf_url: https://openreview.net/pdf?id=kjqqcPVOX9
   title: Deep Polynomial Chaos Expansion
+  session: II
   url: https://openreview.net/forum?id=kjqqcPVOX9
+
 - authors: Soroush Ghandi, Benjamin Quost, Cassio de Campos
   pdf_url: https://openreview.net/pdf?id=hLuH64EY1w
   title: Integrating Constraints via Probabilistic Circuits
+  session: II
   url: https://openreview.net/forum?id=hLuH64EY1w
+
 - authors: Alejandro Almodóvar, Adrián Javaloy, Juan Parras, Santiago Zazo, Isabel
     Valera
   pdf_url: https://openreview.net/pdf?id=fwsRLgEg8M
   title: 'DeCaFlow: A Deconfounding Causal Generative Model'
+  session: I
   url: https://openreview.net/forum?id=fwsRLgEg8M
+
 - authors: Martin Andraud, Lingyun Yao, Karthekeyan Periasamy, Jelin Leslin, Martin
     Trapp
   pdf_url: https://openreview.net/pdf?id=eUOG0Yw9g1
   title: 'Computing Tractable Probabilistic Models: A Hardware Perspective'
+  session: nil
   url: https://openreview.net/forum?id=eUOG0Yw9g1
+
 - authors: Anji Liu, Guy Van den Broeck
   pdf_url: https://openreview.net/pdf?id=dhDn8Jj6Ip
   title: Rethinking Probabilistic Circuit Parameter Learning
+  session: II
   url: https://openreview.net/forum?id=dhDn8Jj6Ip
+
 - authors: Daniil Sherki, Ivan Oseledets, Ekaterina Muravleva
   pdf_url: https://openreview.net/pdf?id=Vl6oJQLZPf
-  title: 'Bayesian Inverse Problems Meet Flow Matching: Efficient and Flexible Inference
-    via Transformers'
+  title: 'Bayesian Inverse Problems Meet Flow Matching: Efficient and Flexible Inference via Transformers'
+  session: I
   url: https://openreview.net/forum?id=Vl6oJQLZPf
+
 - authors: Jonas Rodrigues Lima Goncalves, Denis Mauá
   pdf_url: https://openreview.net/pdf?id=VbFZDZpOi6
   title: On the Relationship between And-Sum Circuits and Deterministic Boolean Circuits
+  session: I
   url: https://openreview.net/forum?id=VbFZDZpOi6
+
 - authors: Thomas Wedenig, Robert Peharz
   pdf_url: https://openreview.net/pdf?id=T7f3ZjqTNN
   title: Effective Diffusion-free Score Matching for Exact Conditional Sampling
+  session: nil
   url: https://openreview.net/forum?id=T7f3ZjqTNN
+
 - authors: Leander Kurscheidt, Paolo Morettin, Roberto Sebastiani, Andrea Passerini,
     Antonio Vergari
   pdf_url: https://openreview.net/pdf?id=OXaKsbjyL3
   title: A Probabilistic Neuro-symbolic Layer for Algebraic Constraint Satisfaction
+  session: II
   url: https://openreview.net/forum?id=OXaKsbjyL3
+
 - authors: Pedro Zuidberg Dos Martires
   pdf_url: https://openreview.net/pdf?id=KysZry3zSF
   title: A Quantum Information Theoretic Approach to Tractable Probabilistic Models
+  session: I
   url: https://openreview.net/forum?id=KysZry3zSF
+
 - authors: Martin Rektoris, Milan Papez, Vaclav Smidl, Tomáš Pevný
   pdf_url: https://openreview.net/pdf?id=KYKXpIyZU8
   title: Sparse Probabilistic Graph Circuits
+  session: I
   url: https://openreview.net/forum?id=KYKXpIyZU8
+
 - authors: Diptesh Das, Ichiro Takeuchi, Koji Tsuda
   pdf_url: https://openreview.net/pdf?id=BL6vK8GeoR
   title: Statistically Robust Sparse High-order Interaction Model
+  session: I
   url: https://openreview.net/forum?id=BL6vK8GeoR
+
 - authors: John Leland, YooJung Choi
   pdf_url: https://openreview.net/pdf?id=7VoPcK8Nf7
   title: On the Hardness of Approximating Distributions with Probabilistic Circuits
+  session: II
   url: https://openreview.net/forum?id=7VoPcK8Nf7
+
 - authors: Milan Papez, Martin Rektoris, Vaclav Smidl, Tomáš Pevný
   pdf_url: https://openreview.net/pdf?id=518c1Y1taE
-  title: 'Probabilistic Graph Circuits: Deep Generative Models for Tractable Probabilistic
-    Inference over Graphs'
+  title: 'Probabilistic Graph Circuits: Deep Generative Models for Tractable Probabilistic Inference over Graphs'
+  session: I
   url: https://openreview.net/forum?id=518c1Y1taE
+
 - authors: Aleksanteri Sladek, Martin Trapp, Arno Solin
   pdf_url: https://openreview.net/pdf?id=4t5TIF8sPs
   title: Approximate Bayesian Inference via Bitstring Representations
+  session: I
   url: https://openreview.net/forum?id=4t5TIF8sPs
+
 - authors: Jaron Maene, Vincent Derkinderen, Pedro Zuidberg Dos Martires
   pdf_url: https://openreview.net/pdf?id=3LVb3xuxfh
   title: 'KLay: Accelerating Arithmetic Circuits for Neurosymbolic AI'
+  session: II
   url: https://openreview.net/forum?id=3LVb3xuxfh
