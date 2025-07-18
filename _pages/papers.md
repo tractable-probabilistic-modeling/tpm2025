@@ -7,7 +7,7 @@ title: Accepted Papers
 
 # Accepted Papers 
 
-You can see all accpeted papers on [OpenReview](https://openreview.net/group?id=auai.org/UAI/2025/Workshop/TPM#tab-accept) as well.
+You can see all accepted papers on [OpenReview](https://openreview.net/group?id=auai.org/UAI/2025/Workshop/TPM#tab-accept) as well.
 
 <ul>
 {% assign sortedPapers = site.data.papers %}
