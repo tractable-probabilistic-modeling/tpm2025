@@ -10,8 +10,9 @@
   url: https://kareemahmed.com/
   affiliation: University of California, Irvine, USA
   img: kareem_ahmed.jpg
-  title: Neurosymbolic reasoning and scaling tractable probabilistic models
-  abstract: ""
+  title: Language Model Control as Tractable Probabilistic Reasoning
+  abstract: "Despite their unprecedented abilities, language models (LMs) struggle to generate outputs that adhere to syntactic
+ or semantic constraints. We show how the task of controlling LM outputs can be cast as a simple, yet intractable, probabilistic reasoning problem. To that end, we combine sampling with tractable inference to induce a locally faithful, tractable distribution over all sentences. We can efficiently condition this distribution on arbitrary logical constraints, allowing us to guide the LM toward constraint-satisfying outputs during finetuning, and guaranteeing constraint satisfaction during generation. We extend this idea to semantic constraints defined in terms of neural verifiers, where we leverage a verifier's gradient information to efficiently reason over all generations that satisfy the target attribute, enabling semantic control of LMs. Our experiments show that our approaches outperform the baselines across a range of tasks leading to fluent generations that are guaranteed to syntactically satisfy the constraint, while satisfying semantic constraints with very high probability."
   session: 1
   
 - name: Cassio De Campos
