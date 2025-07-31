@@ -1,10 +1,23 @@
 
+- authors: Johannes Exenberger, Sascha Ranftl, Robert Peharz
+  pdf_url: https://openreview.net/pdf?id=kjqqcPVOX9
+  title: "[Best paper award!] Deep Polynomial Chaos Expansion"
+  session: II
+  url: https://openreview.net/forum?id=kjqqcPVOX9
+
 - authors: Weixin Chen, Simon Yu, Huajie Shao, Lui Sha, Han Zhao
   pdf_url: https://openreview.net/pdf?id=cBoYAtNwrg
   title: 'Neural Probabilistic Circuits: An Overview'
   session: nil
   url: https://openreview.net/forum?id=cBoYAtNwrg
   video: https://youtu.be/rFduMdSHRBM
+
+- authors: Daniil Sherki, Ivan Oseledets, Ekaterina Muravleva
+  pdf_url: https://openreview.net/pdf?id=Vl6oJQLZPf
+  title: 'Bayesian Inverse Problems Meet Flow Matching: Efficient and Flexible Inference via Transformers'
+  session: nil
+  url: https://openreview.net/forum?id=Vl6oJQLZPf
+  video: https://youtu.be/vSjRzyAArLA
 
 - authors: Steven Braun, Sahil Sidheekh, Sriraam Natarajan, Antonio Vergari, Martin
     Mundt, Kristian Kersting
@@ -58,12 +71,6 @@
   session: I
   url: https://openreview.net/forum?id=lr1QyFeFuf
 
-- authors: Johannes Exenberger, Sascha Ranftl, Robert Peharz
-  pdf_url: https://openreview.net/pdf?id=kjqqcPVOX9
-  title: Deep Polynomial Chaos Expansion
-  session: II
-  url: https://openreview.net/forum?id=kjqqcPVOX9
-
 - authors: Soroush Ghandi, Benjamin Quost, Cassio de Campos
   pdf_url: https://openreview.net/pdf?id=hLuH64EY1w
   title: Integrating Constraints via Probabilistic Circuits
@@ -89,12 +96,6 @@
   title: Rethinking Probabilistic Circuit Parameter Learning
   session: II
   url: https://openreview.net/forum?id=dhDn8Jj6Ip
-
-- authors: Daniil Sherki, Ivan Oseledets, Ekaterina Muravleva
-  pdf_url: https://openreview.net/pdf?id=Vl6oJQLZPf
-  title: 'Bayesian Inverse Problems Meet Flow Matching: Efficient and Flexible Inference via Transformers'
-  session: I
-  url: https://openreview.net/forum?id=Vl6oJQLZPf
 
 - authors: Jonas Rodrigues Lima Goncalves, Denis Mauá
   pdf_url: https://openreview.net/pdf?id=VbFZDZpOi6
